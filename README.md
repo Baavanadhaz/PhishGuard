@@ -1,6 +1,6 @@
-# 🛡️ PhishGuard AI
+ 🛡️ PhishGuard AI
 
-### AI-Powered Phishing URL Detection System
+AI-Powered Phishing URL Detection System
 
 PhishGuard AI is a full-stack web application that uses Machine Learning to analyze URLs and detect potential phishing threats.
 
@@ -8,7 +8,7 @@ The application allows users to securely register and log in, scan URLs in real 
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 🔍 Real-time URL phishing detection
 - 🤖 Machine Learning-based URL classification
@@ -26,9 +26,9 @@ The application allows users to securely register and log in, scan URLs in real 
 
 ---
 
-## 🏗️ System Architecture
+ 🏗️ System Architecture
 
-```text
+text
                     ┌─────────────────────┐
                     │      User           │
                     └──────────┬──────────┘
